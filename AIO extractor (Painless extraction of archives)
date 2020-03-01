@@ -1,0 +1,26 @@
+# Best  Painless Extrator in linux
+Do the right extract is the best extractor so far. No bullshit, just works
+ 
+#### Installation
+```
+sudo apt update
+```
+```
+sudo apt upgrade
+```
+```
+sudo apt install dtrx
+```
+
+#### Usage
+Manual 
+```
+dtrx --help
+```
+
+
+type
+
+```
+dtrx <Archive name>
+```
